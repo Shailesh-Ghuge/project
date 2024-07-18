@@ -36,7 +36,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
-                <version>3.3.2</version> <!-- Update to a version that is compatible -->
+                <version>2.1.1</version> <!-- Update to a version that is compatible -->
                 <configuration>
                     <!-- Optionally configure the war plugin if needed -->
                 </configuration>
